@@ -1,0 +1,19 @@
+
+Git é um VCS, Versionamento de Código de Software, serve como um repositório local em sua máquina, utiliza com o software Git, 
+Vantagem ser open source, distribuição livre.
+
+Desvantagem
+
+Maior complexidade é grande desvantagem dos DVCS
+Mas o modelo de distribuição do controle de versão não suscita apenas vantagens - há alguns espinhos pelo meio, 
+sendo a maior complexidade do procedimento o maior deles.
+
+‼️ Vamos praticar!
+
+
+Utilizar alguns comandos básicos do git com o projeto de python no GitHub
+
+Exemplo:
+subir nova versão no GitHub na branch Master (Main) e mostrar o commit comentado!
+
+Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação |Treinamento em Python | Testes de Software |Cursando Inglês CNA |
